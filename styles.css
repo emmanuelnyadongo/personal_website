@@ -1,0 +1,31 @@
+body {
+    background-color:white;
+}
+h1{
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 45px;
+    color: black;
+}
+h2 {
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 45px;
+    color:coral;
+}
+p{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+#developer{
+    color:coral;
+}
+header{
+    padding: 20px;
+    height:80px;
+    
+}
+
+#intro{
+    dispaly:grid;
+    padding:20px;
+    height:150px;
+}
